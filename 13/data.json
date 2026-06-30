@@ -1,0 +1,112 @@
+[
+  {
+    "id": 0,
+    "productName": "Fresh Avocados",
+    "image": "🥑",
+    "from": "Spain",
+    "nutrients": "Vitamin B, Vitamin K",
+    "quantity": "4 🥑",
+    "price": "6.50",
+    "organic": true,
+    "description": "Creamy and nutrient-rich avocados perfect for salads, toast, sandwiches, and homemade guacamole."
+  },
+  {
+    "id": 1,
+    "productName": "Red Apples",
+    "image": "🍎",
+    "from": "USA",
+    "nutrients": "Vitamin C, Fiber",
+    "quantity": "6 🍎",
+    "price": "4.25",
+    "organic": true,
+    "description": "Fresh, juicy apples with a naturally sweet flavor. Great for snacking, desserts, or fresh juice."
+  },
+  {
+    "id": 2,
+    "productName": "Sweet Bananas",
+    "image": "🍌",
+    "from": "Ecuador",
+    "nutrients": "Potassium, Vitamin B6",
+    "quantity": "7 🍌",
+    "price": "3.80",
+    "organic": false,
+    "description": "Naturally sweet bananas packed with energy. Perfect for breakfast, smoothies, and healthy snacks."
+  },
+  {
+    "id": 3,
+    "productName": "Fresh Oranges",
+    "image": "🍊",
+    "from": "Brazil",
+    "nutrients": "Vitamin C, Folate",
+    "quantity": "5 🍊",
+    "price": "5.10",
+    "organic": true,
+    "description": "Juicy oranges loaded with vitamin C. Ideal for fresh juice or a refreshing snack."
+  },
+  {
+    "id": 4,
+    "productName": "Organic Strawberries",
+    "image": "🍓",
+    "from": "Netherlands",
+    "nutrients": "Vitamin C, Antioxidants",
+    "quantity": "250g",
+    "price": "7.99",
+    "organic": true,
+    "description": "Sweet and flavorful strawberries grown without synthetic pesticides."
+  },
+  {
+    "id": 5,
+    "productName": "Green Grapes",
+    "image": "🍇",
+    "from": "Italy",
+    "nutrients": "Vitamin K, Copper",
+    "quantity": "500g",
+    "price": "6.75",
+    "organic": false,
+    "description": "Seedless green grapes with a crisp texture and refreshing sweetness."
+  },
+  {
+    "id": 6,
+    "productName": "Fresh Mangoes",
+    "image": "🥭",
+    "from": "India",
+    "nutrients": "Vitamin A, Vitamin C",
+    "quantity": "3 🥭",
+    "price": "8.50",
+    "organic": true,
+    "description": "Premium ripe mangoes with a rich tropical flavor and juicy texture."
+  },
+  {
+    "id": 7,
+    "productName": "Pineapple",
+    "image": "🍍",
+    "from": "Costa Rica",
+    "nutrients": "Vitamin C, Manganese",
+    "quantity": "1 🍍",
+    "price": "4.95",
+    "organic": false,
+    "description": "Sweet and tangy pineapple, excellent for desserts, juices, and fruit salads."
+  },
+  {
+    "id": 8,
+    "productName": "Watermelon",
+    "image": "🍉",
+    "from": "Turkey",
+    "nutrients": "Vitamin A, Lycopene",
+    "quantity": "1 🍉",
+    "price": "9.20",
+    "organic": true,
+    "description": "Refreshing watermelon with naturally sweet, juicy flesh perfect for hot summer days."
+  },
+  {
+    "id": 9,
+    "productName": "Fresh Kiwi",
+    "image": "🥝",
+    "from": "New Zealand",
+    "nutrients": "Vitamin C, Fiber",
+    "quantity": "5 🥝",
+    "price": "5.60",
+    "organic": true,
+    "description": "Tangy and delicious kiwis packed with vitamin C and dietary fiber."
+  }
+]
