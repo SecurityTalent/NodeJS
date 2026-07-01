@@ -3,6 +3,11 @@ const http = require('http');
 const url = require('url');
 
 
+//! ReadFile form data.json but blockBul Function readFileSync
+
+const overview = fs.readFileSync(`${__dirname}/overview.html`, 'utf-8');
+const card = fs.readFileSync(`${__dirname}/card.html`, 'utf-8');
+const product = fs.readFileSync(`${__dirname}/product.html`, 'utf-8');
 
 const data = fs.readFileSync(`${__dirname}/data.json`, 'utf-8');
 const dataObj = JSON.parse(data);
@@ -21,7 +26,7 @@ const server = http.createServer((req, res) => {
 
     //! API
     } else if (pathName === '/api') {
-
+        // Non blockbul readFile
         // fs.readFile(`${__dirname}/data.json`, 'utf-8', (err, data) => {
         //     const ProductData = JSON.parse(data);
             // console.log(ProductData)
